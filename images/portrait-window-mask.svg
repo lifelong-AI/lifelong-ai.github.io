@@ -7,5 +7,5 @@
       <stop offset="1" stop-color="white" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="53" y="165" width="360" height="390" rx="34" fill="url(#fade)"/>
+  <rect x="45" y="150" width="400" height="420" rx="22" fill="url(#fade)"/>
 </svg>
