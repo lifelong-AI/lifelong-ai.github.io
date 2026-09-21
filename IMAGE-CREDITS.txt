@@ -1,0 +1,10 @@
+Image attribution
+
+images/promptshield-scenarios.jpg
+Figure 3 from "PromptShield Home: Ambient Multimodal Prompt Injection Defense
+for Smart-Home Agents" by H. Zhang, F. Li, D. Long, Y. Cui, P. Zhang,
+Y. Zhang, Q. Xu, and X. Fu.
+Source: https://arxiv.org/html/2608.05495
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+The figure is displayed as a resized thumbnail on this website.
