@@ -8,3 +8,9 @@ Source: https://arxiv.org/html/2608.05495
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 https://creativecommons.org/licenses/by/4.0/
 The figure is displayed as a resized thumbnail on this website.
+
+images/shakesort-concept-v1.png
+images/car-following-concept-v1.png
+AI-generated conceptual topic illustrations created with OpenAI image generation
+at the website owner's request. They are not figures from the papers, actual
+experimental apparatus, measured data, or reported results.
